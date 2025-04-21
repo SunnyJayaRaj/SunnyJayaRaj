@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Sunny JayaRaj 
+# 👋 Hey, I'm MaveRick [a.k.a "Sunny JayaRaju"]
 
 Curious explorer 🚀 | Tech newbie with a semi-technical past ⚙️ | Learning in public 📖
 
@@ -14,15 +14,16 @@ This space is where I document my beginner journey, share small wins, and grow o
 ### 💡 What I’m Up To
 
 - Exploring Git, GitHub & all things open source  
-- Taking notes in my [📘 curious-explorer](https://github.com/SunnyJayaRaj/curious-explorer) repo  
+- Taking notes in my 📘[curious-explorer](https://github.com/SunnyJayaRaj/curious-explorer) repo  
 - Making sense of things by writing them down  
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/sunny-jayaraju-kummu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sunny-jayaraju-kummu)
+[![Email](https://img.shields.io/badge/Email-Send-green?logo=gmail)](mailto:SunnyJayaRajuKummu@gmail.com)
 
 ---
 
-> ✨ Learning by doing, building by learning. Let’s grow together!
+✨ Learning by doing, building by learning. Let’s grow together!
