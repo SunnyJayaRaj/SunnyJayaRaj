@@ -1,6 +1,6 @@
 # 👋 Hey, I'm MaveRick [a.k.a "Sunny JayaRaju"]
 
-Curious explorer 🚀 | Tech newbie with a semi-technical past ⚙️ | Learning in public 📖
+Curious Explorer 🚀 | Tech newbie with a Semi-Technical past ⚙️ | Learning in Public 📖
 
 ---
 
@@ -14,7 +14,7 @@ This space is where I document my beginner journey, share small wins, and grow o
 ### 💡 What I’m Up To
 
 - Exploring Git, GitHub & all things open source  
-- Taking notes in my 📘[curious-explorer](https://github.com/SunnyJayaRaj/curious-explorer) repo  
+- Taking notes in my 📘[Curious-Explorer](https://github.com/SunnyJayaRaj/Curious-Explorer) repo  
 - Making sense of things by writing them down  
 
 ---
