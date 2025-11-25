@@ -32,7 +32,7 @@ Explorer with a growing interest in APIs, gateways, and integration patterns. I�
 
 ### 📘 **[Curious-Explorer](https://github.com/SunnyJayaRaj/Curious-Explorer)**
 *My central learning notebook and knowledge base.*  
-Includes concept breakdowns, CLI snippets, and configuration walkthroughs for cloud tools.
+- Includes concept breakdowns, CLI snippets, and configuration walkthroughs for cloud tools.
 
 ### 🌐 **[SunnyJayaRaj.github.io](https://github.com/SunnyJayaRaj/SunnyJayaRaj.github.io)**
 *My personal portfolio built with semantic HTML and clean CSS.*
@@ -72,6 +72,6 @@ Working with **Apigee, Kong, or API Gateways**? I’d love to connect and learn 
 
 ---
 
-<div align="center">
+<div align="left">
   <i>✨ I learn in public because it keeps me honest and curious. Every commit, even the messy ones, adds to the journey.</i>
 </div>
