@@ -68,7 +68,7 @@ Working with **Apigee, Kong, or API Gateways**? I’d love to connect and learn 
 ---
 
 ## 📬 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sunny-jayaraju-kummu) [![Email](https://img.shields.io/badge/Email-Say%20Hi-green?logo=gmail)](mailto:SunnyJayaRajuKummu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/SunnyJayaRajuKummu) [![Email](https://img.shields.io/badge/Email-Say%20Hi-green?logo=gmail)](mailto:SunnyJayaRajuKummu@gmail.com)
 
 ---
 
