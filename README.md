@@ -17,7 +17,7 @@ I’m focused on how systems communicate through **APIs, Gateways, and Integrati
 ---
 
 ## 🚀 Featured Projects
-_All implementations live inside the **[Apigee-Lab](https://github.com/SunnyJayaRaj/Apigee-Lab)** monorepo._
+_All implementations live inside the **[Apigee-Lab](https://github.com/SunnyJayaRaju/Apigee-Lab)** monorepo._
 
 ### 🛡️ **1. Weather Shield Gateway (Enterprise Security Layer)**
 A secure, optimized gateway for handling weather API traffic.  
@@ -67,7 +67,7 @@ A structured technical notebook.
 * **Bug Log:** Real-world debugging notes from experiments.  
 * **Snippets:** Reusable templates for policies and TargetEndpoints.
 
-### 🌐 **[SunnyJayaRaj.github.io](https://github.com/SunnyJayaRaj/SunnyJayaRaj.github.io)**
+### 🌐 **[SunnyJayaRaju.github.io](https://github.com/SunnyJayaRaju/SunnyJayaRaju.github.io)**
 A clean, semantic HTML portfolio.
 
 ---
@@ -94,7 +94,7 @@ A clean, semantic HTML portfolio.
 ---
 
 ## 📣 Let's Collaborate
-If you work with **Apigee, Kong, or any API gateway**, I’d be glad to connect.  
+If you work with **Apigee, Kong, or any other API gateway**, I’d be glad to connect.  
 * Star the repos if they help.  
 * If you see a cleaner way to design a flow or policy, feel free to open a PR.
 
