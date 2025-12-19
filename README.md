@@ -59,6 +59,16 @@ A continuous delivery setup for API proxies.
 
 ---
 
+### 🔐 **5. Security Governance (Shared Flows)**
+A centralized security module for global policy enforcement.  
+* Built reusable **Shared Flows** to standardize logic across proxies.  
+* Enforced **Spike Arrests** and **Security Headers** globally via `FlowCallout`.  
+* Decoupled governance rules from individual proxy logic.  
+
+**Technologies:** `Apigee X` `Shared Flows` `FlowCallout` `Traffic Management`
+
+---
+
 ## 🧠 Knowledge Base
 
 ### 📘 **[Curious-Explorer](https://github.com/SunnyJayaRaj/Curious-Explorer)**
