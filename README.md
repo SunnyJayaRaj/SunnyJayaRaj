@@ -71,7 +71,7 @@ A centralized security module for global policy enforcement.
 
 ## 🧠 Knowledge Base
 
-### 📘 **[Curious-Explorer](https://github.com/SunnyJayaRaj/Curious-Explorer)**
+### 📘 **[Curious-Explorer](https://github.com/SunnyJayaRaju/Curious-Explorer)**
 A structured technical notebook.  
 * **Concepts:** OAuth, JWT, reverse proxies, governance.  
 * **Bug Log:** Real-world debugging notes from experiments.  
