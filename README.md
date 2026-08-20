@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-  <h3><i>"Crafting clean code at 2 AM with lo-fi beats and a debugger light."</i></h3>
+  <h3><i>"Building APIs by day, debugging them by night."</i></h3>
 </div>
 
 ---
 
 ## 👋 Quick Intro
-I’m focused on how systems communicate through **APIs, Gateways, and Integration Patterns**. Most of my work is around **Apigee** and **API Security**, where I aim to blend enterprise design with hands-on experimentation. I break things, fix them, and document the path so it scales for others too.
+I work on how systems talk to each other through **APIs, gateways, and integration patterns**. Most of my work is around **Apigee** and **API security**. I build things, break them, fix them, and write down what I learn so it helps the next person too.
 
 > **Current focus:** Apigee X, OAuth2 identity flows, and CI/CD automation.  
-> Building proxies is one thing. Building them to be **secure**, **reliable**, and **scalable** is the real craft.
+> Standing up a proxy is easy. Making it **secure**, **reliable**, and **scalable** is the hard part.
 
 ---
 
@@ -116,5 +116,5 @@ If you work with **Apigee, Kong, or any other API gateway**, I’d be glad to co
 ---
 
 <div align="left">
-  <i>✨ I learn in public because it keeps me curious and accountable. Every commit, even the messy ones, moves the needle.</i>
+  <i>✨ I keep my notes public. Even the messy commits teach me something.</i>
 </div>
