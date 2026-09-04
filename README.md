@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3><i>"Crafting clean code at 2 AM with lo-fi beats and a debugger light."</i></h3>
+  <h3><i>"Crafting clean code at 2 AM with lo-fi beats and a debugger light."i></h3>
 </div>
 
 ---
