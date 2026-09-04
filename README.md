@@ -9,7 +9,7 @@
 ---
 
 ## 👋 Quick Intro
-I’m focused on how systems communicate through **APIs, Gateways, and Integration Patterns**. Most of my work is around **Apigee** and **API Security**, where I aim to blend enterprise design with hands-on experimentation. I break things, fix them, and document the path so it scales for others too.
+I'm focused on how systems communicate through **APIs, Gateways, and Integration Patterns**. Most of my work is around **Apigee** and **API Security**, where I aim to blend enterprise design with hands-on experimentation. I break things, fix them, and document the path so it scales for others too.
 
 > **Current focus:** Apigee X, OAuth2 identity flows, and CI/CD automation.  
 > Building proxies is one thing. Building them to be **secure**, **reliable**, and **scalable** is the real craft.
@@ -71,14 +71,14 @@ A centralized security module for global policy enforcement.
 
 ## 🧠 Knowledge Base
 
-### 📘 **[Curious-Explorer](https://github.com/SunnyJayaRaj/Curious-Explorer)**
+### 📘 **[Curious-Explorer](https://github.com/SunnyJayaRaju/Curious-Explorer)**
 A structured technical notebook.  
 * **Concepts:** OAuth, JWT, reverse proxies, governance.  
 * **Bug Log:** Real-world debugging notes from experiments.  
 * **Snippets:** Reusable templates for policies and TargetEndpoints.
 
-### 🌐 **[SunnyJayaRaju.github.io](https://github.com/SunnyJayaRaju/SunnyJayaRaju.github.io)**
-A clean, semantic HTML portfolio.
+### 🌐 **[Live Portfolio](https://sunnyjayaraju.github.io)**
+Clean, semantic HTML portfolio deployed via GitHub Pages.
 
 ---
 
@@ -96,6 +96,14 @@ A clean, semantic HTML portfolio.
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SunnyJayaRaju&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyJayaRaju&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+---
+
 ## 🎯 What's Next?
 1. Standardizing security logic through **Shared Flows**.  
 2. Exploring **advanced traffic management** and priority-based rate limiting.  
@@ -104,7 +112,7 @@ A clean, semantic HTML portfolio.
 ---
 
 ## 📣 Let's Collaborate
-If you work with **Apigee, Kong, or any other API gateway**, I’d be glad to connect.  
+If you work with **Apigee, Kong, or any other API gateway**, I'd be glad to connect.  
 * Star the repos if they help.  
 * If you see a cleaner way to design a flow or policy, feel free to open a PR.
 
