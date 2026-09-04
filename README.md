@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3><i>"Crafting clean code at 2 AM with lo-fi beats and a debugger light."i></h3>
+  <h3><i>"Crafting clean code at 2 AM with lo-fi beats and a debugger light."</i></h3>
 </div>
 
 ---
@@ -92,14 +92,6 @@ Clean, semantic HTML portfolio deployed via GitHub Pages.
   <img src="https://img.shields.io/badge/Postman-Testing-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunnyJayaRaju&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyJayaRaju&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
